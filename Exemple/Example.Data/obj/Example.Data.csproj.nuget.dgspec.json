@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Example.Data\\Example.Data.csproj": {}
+    "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/Example.Data.csproj": {}
   },
   "projects": {
-    "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Example.Data\\Example.Data.csproj": {
+    "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/Example.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Example.Data\\Example.Data.csproj",
+        "projectUniqueName": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/Example.Data.csproj",
         "projectName": "Example.Data",
-        "projectPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Example.Data\\Example.Data.csproj",
-        "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
-        "outputPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Example.Data\\obj\\",
+        "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/Example.Data.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj": {
-                "projectPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj"
+              "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj": {
+                "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj"
               }
             }
           }
@@ -69,28 +67,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj": {
+    "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
+        "projectUniqueName": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj",
         "projectName": "Exemple.Domain",
-        "projectPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
-        "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
-        "outputPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\obj\\",
+        "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,6 +116,10 @@
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.4.5, )"
             }
           },
           "imports": [
@@ -138,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

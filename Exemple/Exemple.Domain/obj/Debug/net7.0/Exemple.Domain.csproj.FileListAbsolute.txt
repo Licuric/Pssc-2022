@@ -1,12 +1,24 @@
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.csproj.AssemblyReference.cache
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.AssemblyInfoInputs.cache
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.AssemblyInfo.cs
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.csproj.CoreCompileInputs.cache
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\bin\Debug\net7.0\Exemple.Domain.deps.json
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\bin\Debug\net7.0\Exemple.Domain.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\bin\Debug\net7.0\Exemple.Domain.pdb
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\refint\Exemple.Domain.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\Exemple.Domain.pdb
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Exemple.Domain\obj\Debug\net7.0\ref\Exemple.Domain.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.csproj.AssemblyReference.cache
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.AssemblyInfoInputs.cache
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.AssemblyInfo.cs
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.csproj.CoreCompileInputs.cache
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/bin/Debug/net7.0/Exemple.Domain.deps.json
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/bin/Debug/net7.0/Exemple.Domain.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/bin/Debug/net7.0/Exemple.Domain.pdb
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/refint/Exemple.Domain.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.pdb
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Exemple.Domain/obj/Debug/net7.0/ref/Exemple.Domain.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/bin/Debug/net7.0/Exemple.Domain.deps.json
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/bin/Debug/net7.0/Exemple.Domain.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/bin/Debug/net7.0/Exemple.Domain.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.csproj.AssemblyReference.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.AssemblyInfoInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.AssemblyInfo.cs
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.csproj.CoreCompileInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/refint/Exemple.Domain.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/Exemple.Domain.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/Debug/net7.0/ref/Exemple.Domain.dll

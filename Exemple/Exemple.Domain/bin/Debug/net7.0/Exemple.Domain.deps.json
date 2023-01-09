@@ -10,7 +10,8 @@
         "dependencies": {
           "CSharp.Choices": "2.0.1",
           "LanguageExt.Core": "3.4.15",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0"
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.OpenApi": "1.4.5"
         },
         "runtime": {
           "Exemple.Domain.dll": {}
@@ -183,6 +184,14 @@
       },
       "Microsoft.NETCore.Platforms/2.1.2": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.OpenApi/1.4.5": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.4.5.0",
+            "fileVersion": "1.4.5.0"
+          }
+        }
+      },
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.2",
@@ -503,6 +512,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qsKbcFvY9/yUXiLTSsXd76RePfOHTbqMYBmHlFe0j97XZy1I7g8Rj81iw2SpA2pwQO7HgwGN+Ogd/xdKRKjJTg==",
+      "path": "microsoft.openapi/1.4.5",
+      "hashPath": "microsoft.openapi.1.4.5.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

@@ -229,6 +229,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.OpenApi/1.4.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Collections/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1148,6 +1161,20 @@
         "microsoft.netcore.targets.1.1.0.nupkg.sha512",
         "microsoft.netcore.targets.nuspec",
         "runtime.json"
+      ]
+    },
+    "Microsoft.OpenApi/1.4.5": {
+      "sha512": "qsKbcFvY9/yUXiLTSsXd76RePfOHTbqMYBmHlFe0j97XZy1I7g8Rj81iw2SpA2pwQO7HgwGN+Ogd/xdKRKjJTg==",
+      "type": "package",
+      "path": "microsoft.openapi/1.4.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.4.5.nupkg.sha512",
+        "microsoft.openapi.nuspec"
       ]
     },
     "System.Collections/4.3.0": {
@@ -3092,30 +3119,29 @@
     "net7.0": [
       "CSharp.Choices >= 2.0.1",
       "LanguageExt.Core >= 3.4.15",
-      "Microsoft.Extensions.Logging.Abstractions >= 6.0.0"
+      "Microsoft.Extensions.Logging.Abstractions >= 6.0.0",
+      "Microsoft.OpenApi >= 1.4.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cristina\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
+      "projectUniqueName": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj",
       "projectName": "Exemple.Domain",
-      "projectPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
-      "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
-      "outputPath": "D:\\Pssc-Projekt2022\\Lucrarea-05\\Exemple\\Exemple.Domain\\obj\\",
+      "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/Exemple.Domain.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Exemple.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Cristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3145,6 +3171,10 @@
           "Microsoft.Extensions.Logging.Abstractions": {
             "target": "Package",
             "version": "[6.0.0, )"
+          },
+          "Microsoft.OpenApi": {
+            "target": "Package",
+            "version": "[1.4.5, )"
           }
         },
         "imports": [
@@ -3163,7 +3193,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

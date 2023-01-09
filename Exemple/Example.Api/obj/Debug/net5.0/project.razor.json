@@ -1,0 +1,19 @@
+{
+  "FilePath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-Projekt2022/Lucrarea-06/Exemple/Example.Api/Example.Api.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "Example.Api",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

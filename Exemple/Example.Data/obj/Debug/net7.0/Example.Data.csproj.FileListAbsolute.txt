@@ -1,15 +1,30 @@
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\bin\Debug\net7.0\Example.Data.deps.json
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\bin\Debug\net7.0\Example.Data.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\bin\Debug\net7.0\Example.Data.pdb
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\bin\Debug\net7.0\Exemple.Domain.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\bin\Debug\net7.0\Exemple.Domain.pdb
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.csproj.AssemblyReference.cache
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.GeneratedMSBuildEditorConfig.editorconfig
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.AssemblyInfoInputs.cache
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.AssemblyInfo.cs
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.csproj.CoreCompileInputs.cache
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.csproj.CopyComplete
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\refint\Example.Data.dll
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\Example.Data.pdb
-D:\Pssc-Projekt2022\Lucrarea-05\Exemple\Example.Data\obj\Debug\net7.0\ref\Example.Data.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/bin/Debug/net7.0/Example.Data.deps.json
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/bin/Debug/net7.0/Example.Data.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/bin/Debug/net7.0/Example.Data.pdb
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/bin/Debug/net7.0/Exemple.Domain.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/bin/Debug/net7.0/Exemple.Domain.pdb
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.csproj.AssemblyReference.cache
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.AssemblyInfoInputs.cache
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.AssemblyInfo.cs
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.csproj.CoreCompileInputs.cache
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.csproj.CopyComplete
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/refint/Example.Data.dll
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.pdb
+D:/Pssc-Projekt2022/Lucrarea-05/Exemple/Example.Data/obj/Debug/net7.0/ref/Example.Data.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/bin/Debug/net7.0/Example.Data.deps.json
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/bin/Debug/net7.0/Example.Data.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/bin/Debug/net7.0/Example.Data.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/bin/Debug/net7.0/Exemple.Domain.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/bin/Debug/net7.0/Exemple.Domain.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.csproj.AssemblyReference.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.AssemblyInfoInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.AssemblyInfo.cs
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.csproj.CoreCompileInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.csproj.CopyComplete
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/refint/Example.Data.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/Example.Data.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Data/obj/Debug/net7.0/ref/Example.Data.dll
