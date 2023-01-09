@@ -45,7 +45,6 @@ namespace Exemple.Domain
                     Right: publishedGrades => new ExamGradesPublishScucceededEvent(publishedGrades.Csv, publishedGrades.PublishedDate)
                 );
         }
-
         private async Task<Either<IExamGrades, PublishedExamGrades>> ExecuteWorkflowAsync(UnvalidatedExamGrades unvalidatedGrades, 
                                                                                           IEnumerable<CalculatedSudentGrade> existingGrades, 
                                                                                           Func<StudentRegistrationNumber, Option<StudentRegistrationNumber>> checkStudentExists)

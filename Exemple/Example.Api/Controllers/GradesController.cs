@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System;
 using Example.Api.Models;
 using Exemple.Domain.Models;
+using Microsoft.Data.SqlClient;
 
 namespace Example.Api.Controllers
 {
@@ -58,6 +59,59 @@ namespace Example.Api.Controllers
                 whenExamGradesPublishScucceededEvent: successEvent => Ok()
             );
         }
+
+
+        [HttpDelete]
+        public async Task<IActionResult> CancelGrades([FromServices]PublishGradeWorkflow publishGradeWorkflow, [FromBody]InputGrade[] grades)
+        {
+            SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
+
+                builder.DataSource = "tcp:pssc2022.database.windows.net"; 
+                builder.UserID = "denis";            
+                builder.Password = "Pssc2022@";     
+                builder.InitialCatalog = "Students";
+            try 
+            {
+         
+                using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
+                {                    
+                    connection.Open();       
+                    String sql = "Delete FROM dbo.Command";
+
+                    using (SqlCommand commanding = new SqlCommand(sql, connection))
+                    {
+                        commanding.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (SqlException e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            return Ok();
+        }
+
+        [HttpGet("1")]
+        public async Task<IActionResult> GetReceipt([FromServices] IGradesRepository gradesRepository, IStudentsRepository studentsRepository) =>
+            await gradesRepository.TryGetExistingGrades().Match(
+               Succ: GetReceiptsSuccess,
+               Fail: GetReceiptsError
+            );
+
+        private ObjectResult GetReceiptsError(Exception ex)
+        {
+            logger.LogError(ex, ex.Message);
+            return base.StatusCode(StatusCodes.Status500InternalServerError, "UnexpectedError");
+        }
+
+        private OkObjectResult GetReceiptsSuccess(List<Exemple.Domain.Models.CalculatedSudentGrade> grades) =>
+        Ok(grades.Select(grade => new
+        {
+            StudentRegistrationNumber = grade.CommandId,
+            grade.Name,
+            grade.Quantity,
+            grade.Subtotal
+        }));
 
         private static UnvalidatedStudentGrade MapInputGradeToUnvalidatedGrade(InputGrade grade) => new UnvalidatedStudentGrade(
             Name: grade.RegistrationNumber,
