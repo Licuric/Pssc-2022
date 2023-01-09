@@ -1,0 +1,12 @@
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/bin/Debug/net7.0/Example.Events.deps.json
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/bin/Debug/net7.0/Example.Events.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/bin/Debug/net7.0/Example.Events.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.csproj.AssemblyReference.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.AssemblyInfoInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.AssemblyInfo.cs
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.csproj.CoreCompileInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/refint/Example.Events.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/Example.Events.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/Debug/net7.0/ref/Example.Events.dll

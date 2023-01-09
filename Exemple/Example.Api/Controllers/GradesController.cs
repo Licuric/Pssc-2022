@@ -61,7 +61,7 @@ namespace Example.Api.Controllers
 
         private static UnvalidatedStudentGrade MapInputGradeToUnvalidatedGrade(InputGrade grade) => new UnvalidatedStudentGrade(
             Name: grade.RegistrationNumber,
-            Quantity: grade.RegistrationNumber,
-            Subtotal: grade.RegistrationNumber);
+            Quantity: grade.Exam,
+            Subtotal: grade.Activity);
     }
 }

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/Example.Events.ServiceBus.csproj": {}
+  },
+  "projects": {
+    "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/Example.Events.ServiceBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/Example.Events.ServiceBus.csproj",
+        "projectName": "Example.Events.ServiceBus",
+        "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/Example.Events.ServiceBus.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/Example.Events.csproj": {
+                "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/Example.Events.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.5.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/Example.Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/Example.Events.csproj",
+        "projectName": "Example.Events",
+        "projectPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/Example.Events.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CloudNative.CloudEvents.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

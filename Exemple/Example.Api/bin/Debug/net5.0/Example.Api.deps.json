@@ -8,9 +8,9 @@
       "TRACE",
       "DEBUG",
       "NET",
-      "NET5_0",
+      "NET7_0",
       "NETCOREAPP",
-      "NET5_0_OR_GREATER",
+      "NET7_0_OR_GREATER",
       "NETCOREAPP1_0_OR_GREATER",
       "NETCOREAPP1_1_OR_GREATER",
       "NETCOREAPP2_0_OR_GREATER",
@@ -665,13 +665,13 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "runtime": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
+          "lib/net5.0/Microsoft.Extensions.DependencyInjection.dll": {
             "assemblyVersion": "7.0.0.1",
             "fileVersion": "7.0.821.31504"
           }
         },
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/net5.0/Microsoft.Extensions.DependencyInjection.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {},
@@ -1015,13 +1015,13 @@
       },
       "System.Diagnostics.DiagnosticSource/7.0.1": {
         "runtime": {
-          "lib/net7.0/System.Diagnostics.DiagnosticSource.dll": {
+          "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {
             "assemblyVersion": "7.0.0.0",
             "fileVersion": "7.0.220.61120"
           }
         },
         "compile": {
-          "lib/net7.0/System.Diagnostics.DiagnosticSource.dll": {}
+          "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
       "System.Diagnostics.Tools/4.3.0": {

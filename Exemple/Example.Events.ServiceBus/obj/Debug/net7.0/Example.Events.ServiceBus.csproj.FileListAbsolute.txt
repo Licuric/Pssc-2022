@@ -1,0 +1,15 @@
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/bin/Debug/net7.0/Example.Events.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/bin/Debug/net7.0/Example.Events.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.csproj.AssemblyReference.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.AssemblyInfoInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.AssemblyInfo.cs
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.csproj.CoreCompileInputs.cache
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.csproj.CopyComplete
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/refint/Example.Events.ServiceBus.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/Example.Events.ServiceBus.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/bin/Debug/net7.0/Example.Events.ServiceBus.deps.json
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/bin/Debug/net7.0/Example.Events.ServiceBus.dll
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/bin/Debug/net7.0/Example.Events.ServiceBus.pdb
+/mnt/d/Faculty/Anul 4/sem 1/PSSC/Pssc-2022/Exemple/Example.Events.ServiceBus/obj/Debug/net7.0/ref/Example.Events.ServiceBus.dll

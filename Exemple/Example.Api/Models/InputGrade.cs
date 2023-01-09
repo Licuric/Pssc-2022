@@ -7,10 +7,13 @@ namespace Example.Api.Models
 {
     public class InputGrade
     {
+        [Required]
         public string RegistrationNumber { get; set; }
 
-        public decimal Exam { get; set; }
+        [Required]
+        public string Exam { get; set; }
 
-        public decimal Activity { get; set; }
+        [Required]
+        public string Activity { get; set; }
     }
 }
